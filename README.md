@@ -6,7 +6,7 @@
 
 I am passionate about technology, innovation and building digital solutions that create real value for businesses.
 
-As CEO of **[Smartech](https://smartech-bg.com/)**, I focus on developing innovative software products, digital solutions and services that help businesses work smarter and more efficiently.
+As CEO of **[Smartech EOOD](https://smartech-bg.com/)**, I focus on developing innovative software products, digital solutions and services that help businesses work smarter and more efficiently.
 
 ---
 
@@ -28,7 +28,7 @@ Artificial Intelligence · Software Innovation · Technology Trends · Digital B
 
 ## Connect With Me
 
-- **Website:** [Smartech](https://smartech-bg.com/)
+- **Website:** [Smartech | Software & Design Solutions](https://smartech-bg.com/)
 - **GitHub:** [@pepakam](https://github.com/pepakam)
 - **Linkedin:** [Penka Kamenova](https://linkedin.com/in/penka-kamenova)
 - **Design Portfolio:** [Penka Kamenova](https://penka-kamenova.myportfolio.com/)
