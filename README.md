@@ -30,7 +30,8 @@ Artificial Intelligence · Software Innovation · Technology Trends · Digital B
 
 - **Website:** [Smartech](https://smartech-bg.com/)
 - **GitHub:** [@pepakam](https://github.com/pepakam)
-
+- **Linkedin:** [Penka Kamenova](https://linkedin.com/in/penka-kamenova)
+- **Design Portfolio:** [Penka Kamenova](https://penka-kamenova.myportfolio.com/)
 ---
 
 <p align="center">
