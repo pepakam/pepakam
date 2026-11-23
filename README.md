@@ -1,6 +1,6 @@
-👋![Smartech GitHub Header](./header-smartech_github.jpg)
+![Smartech GitHub Header](./header-smartech_github.jpg)
 
-# Hello, I'm Penka Kamenova
+# 👋Hello, I'm Penka Kamenova
 
 ### Technology Entrepreneur | CEO at Smartech EOOD
 
