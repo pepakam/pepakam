@@ -1,4 +1,4 @@
-![Smartech GitHub Header](./header-smartech_github.jpg)
+![Smartech GitHub Header](./header-smartech-github.jpg)
 
 # 👋Hello, I'm Penka Kamenova
 
