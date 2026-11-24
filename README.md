@@ -20,7 +20,7 @@ As CEO of **[Smartech EOOD](https://smartech-bg.com/)**, I focus on developing i
 
 ## Current Focus
 
-Building and growing innovative software solutions at Smartech, with a particular interest in business automation, digital transformation and emerging technologies.
+Building and growing innovative software solutions at Smartech EOOD, with a particular interest in business automation, digital transformation and emerging technologies.
 
 ## Interests
 
